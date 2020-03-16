@@ -1,0 +1,63 @@
+2020-02-58 19:02:773 ERROR LogInterest:19 -Enter Principle Amount:
+2020-02-58 19:02:612 ERROR LogInterest:21 -
+Enter the duration in years:
+2020-02-58 19:02:145 ERROR LogInterest:23 -
+ Enter the rate of Interest:
+2020-02-58 19:02:503 ERROR LogInterest:25 -
+ Enter the no.of times Compounded:
+2020-02-58 19:02:722 ERROR LogInterest:31 -
+ Compound Interest: Infinity
+2020-02-58 19:02:722 ERROR LogInterest:32 -
+ Simple Interest: 6931883.94
+2020-02-58 19:02:723 ERROR LogInterest:35 -
+ Object has been serialized.
+2020-02-58 19:02:792 INFO  App:19 -Enter Your Type Of Material:
+2020-02-58 19:02:794 INFO  App:20 -1.StandardMaterial
+2020-02-58 19:02:795 INFO  App:21 -2.Above StandardMaterial
+2020-02-58 19:02:795 INFO  App:22 -3.High StandardMaterial
+2020-02-58 19:02:795 INFO  App:23 -4.High StandardMaterial and AutomatedHome
+2020-02-58 19:02:433 ERROR App:25 -Enter no.of Squarefeets:
+2020-02-58 19:02:619 INFO  App:32 -
+ Construction cost per StandardMaterial: 280800.0
+2020-02-58 19:02:621 INFO  App:44 -
+ Object has been serialized.
+2020-02-58 21:02:603 ERROR LogInterest:19 -Enter Principle Amount:
+2020-02-58 21:02:972 ERROR LogInterest:21 -
+Enter the duration in years:
+2020-02-58 21:02:786 ERROR LogInterest:23 -
+ Enter the rate of Interest:
+2020-02-58 21:02:31 ERROR LogInterest:19 -Enter Principle Amount:
+2020-02-58 21:02:967 ERROR LogInterest:21 -
+Enter the duration in years:
+2020-02-58 21:02:292 ERROR LogInterest:23 -
+ Enter the rate of Interest:
+2020-02-58 21:02:993 ERROR LogInterest:25 -
+ Enter the no.of times Compounded:
+2020-02-58 21:02:759 ERROR LogInterest:31 -
+ Compound Interest: 25000.0
+2020-02-58 21:02:762 ERROR LogInterest:32 -
+ Simple Interest: 80.0
+2020-02-58 21:02:764 ERROR LogInterest:35 -
+ Object has been serialized.
+2020-02-58 21:02:216 INFO  LogHouse:17 -Enter Your Type Of Material:
+2020-02-58 21:02:220 INFO  LogHouse:18 -1.StandardMaterial
+2020-02-58 21:02:220 INFO  LogHouse:19 -2.Above StandardMaterial
+2020-02-58 21:02:221 INFO  LogHouse:20 -3.High StandardMaterial
+2020-02-58 21:02:221 INFO  LogHouse:21 -4.High StandardMaterial and AutomatedHome
+2020-02-58 21:02:392 INFO  LogHouse:17 -Enter Your Type Of Material:
+2020-02-58 21:02:396 INFO  LogHouse:18 -1.StandardMaterial
+2020-02-58 21:02:397 INFO  LogHouse:19 -2.Above StandardMaterial
+2020-02-58 21:02:397 INFO  LogHouse:20 -3.High StandardMaterial
+2020-02-58 21:02:398 INFO  LogHouse:21 -4.High StandardMaterial and AutomatedHome
+2020-02-58 21:02:398 INFO  LogHouse:22 -Enter your choice:
+2020-02-58 21:02:26 ERROR LogHouse:24 -Enter no.of Squarefeets:
+2020-02-58 21:02:380 INFO  LogHouse:35 -
+ Construction cost per High StandardMaterial:180000.0
+2020-02-58 21:02:381 INFO  LogHouse:43 -
+ Object has been serialized.
+2020-02-58 21:02:575 INFO  LogHouse:17 -Enter Your Type Of Material:
+2020-02-58 21:02:579 INFO  LogHouse:18 -1.StandardMaterial
+2020-02-58 21:02:580 INFO  LogHouse:19 -2.Above StandardMaterial
+2020-02-58 21:02:581 INFO  LogHouse:20 -3.High StandardMaterial
+2020-02-58 21:02:582 INFO  LogHouse:21 -4.High StandardMaterial and AutomatedHome
+2020-02-58 21:02:582 INFO  LogHouse:22 -Enter your choice:
